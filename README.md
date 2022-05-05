@@ -11,6 +11,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge" alt="Java">
   <img src="https://img.shields.io/badge/-Spring Boot-green?style=for-the-badge" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Maven-darkmagenta?style=for-the-badge" alt="Maven">
   <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL">
 </div>
 
