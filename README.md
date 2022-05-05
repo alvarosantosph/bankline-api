@@ -4,9 +4,9 @@
  
 4 dias de imersão em tecnologia mobile e fullstack aprendendo com o projeto: “Desenvolva uma API Rest para criação de extratos bancários do Santander”.
 
-### 02/05 A 05/05 - ONLINE E GRATUITO
+02/05 A 05/05 - ONLINE E GRATUITO
 
-- API: Java e Spring Boot / PostgreSQL
+### - API: Java e Spring Boot / PostgreSQL
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge" alt="Java">
