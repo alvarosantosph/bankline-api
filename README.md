@@ -13,6 +13,5 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge" alt="PostgreSQL">
 </div>
 
-<p>
  http://dio-bankline-api3.herokuapp.com/swagger-ui/index.html
- </p>
+
