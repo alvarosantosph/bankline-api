@@ -6,7 +6,7 @@
 
 02/05 A 05/05 - ONLINE E GRATUITO
 
-### - API: Java e Spring Boot / PostgreSQL
+### API: Java e Spring Boot / PostgreSQL
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge" alt="Java">
