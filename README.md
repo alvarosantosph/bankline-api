@@ -19,4 +19,4 @@ https://glysns.gitbook.io/java-full-stack/stack-angular/projeto
 
 http://dio-bankline-api3.herokuapp.com/swagger-ui/index.html
 
-<img src="https://github.com/alvarosantosph/bankline-api/blob/main/bankline-api.png">
+<img src="https://github.com/alvarosantosph/bankline-api/blob/main/bankline-api-doc.png">
